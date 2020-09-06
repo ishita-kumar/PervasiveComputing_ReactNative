@@ -1,7 +1,7 @@
 # PervasiveComputing_ReactNative
 
 ## Screenshots 
-![Screenshot](assets/screenshot_assignment2.JPG | width=100)
+<img src="assets\screenshot_assignment2.JPG" height=300>
 
 <!-- assets\screenshot_assignment2.JPG -->
 
